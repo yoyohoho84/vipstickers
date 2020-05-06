@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eaf5793bd679b9da673413b9ce98932f",
+    "revision": "50997a87e6a1cce1bb980ba27a6da4dd",
     "url": "./index.html"
   },
   {
-    "revision": "beedd2206be613e5e098",
+    "revision": "95b224524329d391d55a",
     "url": "./static/css/2.c7e461a2.chunk.css"
   },
   {
-    "revision": "58ce98394b196335e78b",
-    "url": "./static/css/main.db129267.chunk.css"
+    "revision": "4f33dee2f69290e54ade",
+    "url": "./static/css/main.0b16bb68.chunk.css"
   },
   {
-    "revision": "beedd2206be613e5e098",
-    "url": "./static/js/2.ff647bb8.chunk.js"
+    "revision": "95b224524329d391d55a",
+    "url": "./static/js/2.02899c6c.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "./static/js/2.ff647bb8.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.02899c6c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "58ce98394b196335e78b",
-    "url": "./static/js/main.4dc03bc8.chunk.js"
+    "revision": "4f33dee2f69290e54ade",
+    "url": "./static/js/main.b6922ce2.chunk.js"
   },
   {
     "revision": "19e4bd23cfd3f2615e9a",
@@ -40,11 +40,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/films.969059b5.png"
   },
   {
+    "revision": "23ee0a55197f7b651ea37692d7d179ef",
+    "url": "./static/media/gravity_falls1.23ee0a55.jpg"
+  },
+  {
     "revision": "26caf96912566160fcafc5814d981843",
     "url": "./static/media/joker.26caf969.png"
   },
   {
     "revision": "4f53c0977299a616c0c9ab0d9aaceab7",
     "url": "./static/media/malibu.4f53c097.png"
+  },
+  {
+    "revision": "7e8f2bf8b558c3daaac1b4c1746fd897",
+    "url": "./static/media/minecraft.7e8f2bf8.jpg"
+  },
+  {
+    "revision": "dbf7a76d0e9195ac6205f726181f1d03",
+    "url": "./static/media/naruto.dbf7a76d.jpg"
   }
 ]);
